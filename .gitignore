@@ -4,4 +4,8 @@ bin/
 .cache
 .project
 .settings/
-
+*.swp
+.worksheet/
+.project/project
+.project/target
+results.txt
